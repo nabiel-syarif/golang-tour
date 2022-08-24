@@ -21,7 +21,7 @@ func subtract(x, y int) int {
 func multiply(x, y int) (res int) {
 	res = x * y
 
-	return res
+	return
 }
 
 // multiple return value
